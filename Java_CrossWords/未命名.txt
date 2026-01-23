@@ -1,0 +1,12 @@
+Base: n.底部
+Compiler: n.编辑者
+Datatransfer: 数据传输
+Desktop: n.桌面
+Instrument: n.工具
+Logging: n.（木材）采运作业
+Apple: n.苹果
+Application: n.应用
+Support: n.支持
+Audio: a.音频的
+Bluetooth: n.蓝牙技术
+Caches: n.高速缓存

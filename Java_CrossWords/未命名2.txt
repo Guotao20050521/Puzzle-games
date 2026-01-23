@@ -1,0 +1,6 @@
+Apple: n.苹果
+Application: n.应用
+Support: n.支持
+Audio: a.音频的
+Bluetooth: n.蓝牙技术
+Caches: n.高速缓存
